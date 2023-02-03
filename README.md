@@ -18,7 +18,7 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
-## Overview - [Live-Demo](https://youtu.be/exb2ab72Xhs)
+## Overview - [Live-Demo](https://yeongoh.github.io/nft-preview-card-component/)
 
 ### The challenge
 
